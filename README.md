@@ -1,5 +1,6 @@
 # robofriends
-Tutorial for React
+Web page built using React.js as a part of the Zero to Mastery Course.
+
 To run the project:
 
 1. Clone this repo
